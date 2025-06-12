@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Als-capstone-phase2/static/css/main.1c9b3e01.css",
+    "main.js": "/Als-capstone-phase2/static/js/main.8bf613b2.js",
+    "index.html": "/Als-capstone-phase2/index.html",
+    "main.1c9b3e01.css.map": "/Als-capstone-phase2/static/css/main.1c9b3e01.css.map",
+    "main.8bf613b2.js.map": "/Als-capstone-phase2/static/js/main.8bf613b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9b3e01.css",
+    "static/js/main.8bf613b2.js"
+  ]
+}
