@@ -5,7 +5,7 @@ import { getAll, post, put, deleteById} from './memdb.js'
 
 function log(message){console.log(message);}
 
-export function App(params) {
+export function Customer(params) {
   let blankCustomer = { "id": -1, "name": "", "email": "", "password": "" };
   const [customers, setCustomers] = useState([]);
   const [formObject, setFormObject] = useState(blankCustomer);
@@ -134,4 +134,4 @@ export function App(params) {
   );
 }
 
-export default App;
+export default Customer;
